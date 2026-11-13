@@ -7,3 +7,10 @@
 - 道路・河川は PLATEAU 交通／土地利用モデル、鉄道は国土交通省「国土数値情報（鉄道）N02」から生成
 
 出典: PLATEAU（国土交通省） https://www.mlit.go.jp/plateau/ ／ 国土数値情報（国土交通省）
+
+
+## 江津湖・熊本市動植物園モデル
+
+- ビューア: https://yamatotakeru616.github.io/kumamoto-plateau-3d-viewer/ezu.html
+- 範囲: 江津湖と熊本市動植物園周辺（東西3.18km × 南北3.00km)、建物16,223棟
+- データ: PLATEAU 熊本市 2022年度 CityGML（建物3次メッシュ20枚＋地形DEM）。江津湖の水面は国土数値情報（湖沼）W09の範囲を使用し、水位は推定値（標高4.6m）。
